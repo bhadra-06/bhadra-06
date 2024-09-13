@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Bhadra Pradeep
 - 👀 I’m interested Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Python.
 - ⚡ Fun fact: I know dance
 
 <!---
